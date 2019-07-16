@@ -1,3 +1,3 @@
 # Packet-Simulation
 
-Discrete Packet Simulation
+Ad-Hoc Packet Simulation
